@@ -1,4 +1,4 @@
-Me:‍💻 About Me<br><br>Hi, I'm Siddharth Nayak<br><br>🎓 Student | 💻 Aspiring Developer<br><br>- 🌱 Currently learning **programming and development**<br>- 🔭 Working on **improving my coding skills and building projects**<br>- 🤝 Interested in **open source collaboration**<br>- 💡 Love building projects and learning new technologies<br>- ⚡ Always curious about how things work in tech
+Me::‍💻 About Me:<br><br>Hi, I'm Siddharth Nayak<br><br>🎓 Student | 💻 Aspiring Developer<br><br>- 🌱 Currently learning **programming and development**<br>- 🔭 Working on **improving my coding skills and building projects**<br>- 🤝 Interested in **open source collaboration**<br>- 💡 Love building projects and learning new technologies<br>- ⚡ Always curious about how things work in tech
 
 
 ## 🌐 Socials
